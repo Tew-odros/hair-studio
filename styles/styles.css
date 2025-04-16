@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: "Poppins", sans-serif;
 }
 
 #banner {
@@ -26,6 +27,7 @@
 
 .banner-text h1 {
   font-size: 130px;
+  font-family: "Kaushan Script", cursive;
 }
 
 .banner-text p {
